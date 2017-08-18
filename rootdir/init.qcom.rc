@@ -587,3 +587,9 @@ service vendor.goodix_script /vendor/bin/init.goodix.sh
     user system
     oneshot
 # goodix fingerprint section - end
+
+service vendor.power_off_alarm /vendor/bin/power_off_alarm
+    class core
+    group system
+    disabled
+    oneshot
