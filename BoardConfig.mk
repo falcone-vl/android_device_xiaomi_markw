@@ -217,7 +217,8 @@ TARGET_LD_SHIM_LIBS := /vendor/bin/mm-qcamera-daemon|libshims_qcamera-daemon.so
 
 # Treble
 BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
-PRODUCT_FULL_TREBLE_OVERRIDE := true
+#PRODUCT_FULL_TREBLE_OVERRIDE := true
+PRODUCT_SHIPPING_API_LEVEL := 23
 
 # Wi-Fi
 BOARD_USES_CAF_WLAN_HAL := true
