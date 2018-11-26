@@ -125,7 +125,7 @@ PRODUCT_PACKAGES += \
     camera.msm8953 \
     libmm-qcamera \
     libgui_vendor \
-    Camera2
+    Snap
 
 # Camera shim
 PRODUCT_PACKAGES += \
