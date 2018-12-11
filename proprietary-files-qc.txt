@@ -196,7 +196,7 @@ vendor/lib64/vendor.qti.esepowermanager@1.0.so
 vendor/lib/hw/gatekeeper.msm8953.so
 vendor/lib64/hw/gatekeeper.msm8953.so
 
-# Graphics
+# Graphics  (From xiaomi/daisy/daisy_sprout:9/PKQ1.180917.001/V10.0.1.0.PDLMIFJ:user/release-keys)
 lib/libsdm-disp-apis.so:vendor/lib/libsdm-disp-apis.so
 lib64/libsdm-disp-apis.so:vendor/lib64/libsdm-disp-apis.so
 vendor/lib/egl/eglSubDriverAndroid.so
@@ -206,6 +206,7 @@ vendor/lib/egl/libGLESv2_adreno.so
 vendor/lib/egl/libQTapGLES.so
 vendor/lib/egl/libq3dtools_adreno.so
 vendor/lib/hw/vulkan.msm8953.so
+vendor/lib/mediadrm/libwvdrmengine.so
 vendor/lib/libC2D2.so
 vendor/lib/libCB.so
 vendor/lib/libOpenCL.so
@@ -237,6 +238,7 @@ vendor/lib64/egl/libGLESv2_adreno.so
 vendor/lib64/egl/libQTapGLES.so
 vendor/lib64/egl/libq3dtools_adreno.so
 vendor/lib64/hw/vulkan.msm8953.so
+vendor/lib64/mediadrm/libwvdrmengine.so
 vendor/lib64/libC2D2.so
 vendor/lib64/libCB.so
 vendor/lib64/libOpenCL.so
@@ -261,6 +263,7 @@ vendor/lib64/libsdm-diag.so
 -vendor/lib64/libsdm-disp-vndapis.so
 vendor/lib64/libsdmextension.so
 vendor/lib64/libtinyxml2_1.so
+vendor/lib64/libwvhidl.so
 
 # GPS
 etc/permissions/com.qti.location.sdk.xml
