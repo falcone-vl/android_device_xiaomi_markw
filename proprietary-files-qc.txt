@@ -187,8 +187,8 @@ vendor/lib/hw/gatekeeper.msm8953.so
 vendor/lib64/hw/gatekeeper.msm8953.so
 
 # Graphics  (From xiaomi/daisy/daisy_sprout:9/PKQ1.180917.001/V10.0.1.0.PDLMIFJ:user/release-keys)
-lib/libsdm-disp-apis.so:vendor/lib/libsdm-disp-apis.so
-lib64/libsdm-disp-apis.so:vendor/lib64/libsdm-disp-apis.so
+lib/libsdm-disp-apis.so
+lib64/libsdm-disp-apis.so
 vendor/lib/egl/eglSubDriverAndroid.so
 vendor/lib/egl/libEGL_adreno.so
 vendor/lib/egl/libGLESv1_CM_adreno.so
