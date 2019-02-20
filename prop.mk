@@ -45,6 +45,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 bluetooth.hfp.client=1 \
 persist.vendor.bluetooth.modem_nv_support=true \
 persist.vendor.bt.enable.splita2dp=false \
+persist.vendor.btstack.a2dp_offload_cap=sbc-aac-aptx-aptxhd \
 vendor.qcom.bluetooth.soc=smd
 
 # Camera
